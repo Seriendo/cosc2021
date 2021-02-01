@@ -53,6 +53,7 @@ int main(){
   tot();
   min();
   max();
+
   return 0;
   cout<<"testing how to git";
 
