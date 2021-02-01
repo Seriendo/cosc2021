@@ -54,6 +54,7 @@ int main(){
   min();
   max();
   return 0;
+  cout<<"testing how to git";
 
 
 }
